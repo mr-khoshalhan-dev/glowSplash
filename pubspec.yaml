@@ -1,0 +1,16 @@
+name: glow_splash
+description: A customizable Flutter splash screen package with gradient, animated logo, loader, and automatic navigation.
+version: 0.0.1
+author: Your Name <your.email@example.com>
+homepage: https://github.com/yourgithub/glow_splash
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
